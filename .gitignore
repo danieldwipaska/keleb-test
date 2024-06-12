@@ -1,0 +1,4 @@
+/server-nest-js/node_modules
+/server-nest-js/.env
+
+/client-vue-js/node_modules
